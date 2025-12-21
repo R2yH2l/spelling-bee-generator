@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="spelling-bee-generator/spelling-bee-generator.vcxproj" Id="97cefb43-9038-46a5-908f-43a39f57f027" />
+</Solution>
